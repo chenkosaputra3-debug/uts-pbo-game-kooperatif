@@ -1,5 +1,8 @@
-package game.base;
-class Karakter2 extends Karakter {
+package game.karakter2;
+
+import game.base.Karakter;
+
+public class Karakter2 extends Karakter {
     private int totalMusuhDiinjak;
     private int jarakTempuhLari;
 
